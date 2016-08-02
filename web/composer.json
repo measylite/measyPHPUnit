@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "5.4.*"
+    },
+
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "fabpot/goutte": "^3.1"
+    }
+
+}
